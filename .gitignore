@@ -1,0 +1,6 @@
+node_modules/
+
+main/
+
+upload.js
+package-lock.json
