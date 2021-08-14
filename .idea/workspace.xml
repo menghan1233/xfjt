@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79fdba71-5676-451c-b8b7-1a8d4cd61cfb" name="更改" comment="g">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/css/app.f46b767b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/css/chunk-502f3ca8.9f01d104.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/css/chunk-vendors.35dbcd41.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/js/app.fead47c0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/js/app.fead47c0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/js/chunk-502f3ca8.5a7aba2c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/js/chunk-502f3ca8.5a7aba2c.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/js/chunk-7faf4a8c.c3033b58.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/js/chunk-7faf4a8c.c3033b58.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/js/chunk-vendors.7ac9abd1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/js/chunk-vendors.7ac9abd1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1widJ5D4BUvpvKk3vEAyxxzg5Ww" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/新建草稿文件" value="GitIgnore" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="79fdba71-5676-451c-b8b7-1a8d4cd61cfb" name="更改" comment="" />
+      <created>1628945269104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628945269104</updated>
+      <workItem from="1628945271495" duration="3883000" />
+      <workItem from="1628949542716" duration="323000" />
+      <workItem from="1628949869995" duration="748000" />
+    </task>
+    <task id="LOCAL-00001" summary="g">
+      <created>1628945779358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628945779358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="g" />
+    <option name="LAST_COMMIT_MESSAGE" value="g" />
+  </component>
+</project>
