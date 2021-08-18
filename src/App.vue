@@ -1,7 +1,7 @@
 <template>
 <!--  <img alt="Vue logo" src="./assets/logo.png">-->
   <div>
-    <router-view></router-view>
+    <router-view v-wechat-title='$route.meta.title'></router-view>
   </div>
 </template>
 

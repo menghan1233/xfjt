@@ -12,7 +12,8 @@ const routes = [
     {
         path: "/ceshi",
         name: "ceshi",
-        component: ceshi
+        component: ceshi,
+        meta: { title: '翟波涛专属计算器'},
     },
 ]
 export const router = createRouter({
