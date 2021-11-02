@@ -73,7 +73,7 @@ export default {
       const w = (Math.PI / 4) * Math.pow(c, 2)
       const right = (q - w) * h * o
       console.log(left + right)
-      state.res = Math.round((left + right)/1000)
+      state.res = ((left + right)/1000).toFixed(2)
     }
     const reset = () => {
       state.a = ''
